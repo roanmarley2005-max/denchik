@@ -1,0 +1,10 @@
+/* HEADER */
+.header__img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+}
+
+.header__text {
+    
+}
